@@ -1,0 +1,13 @@
+FrontEnd
+    Header 
+        - title, description 
+    Main   
+        -input field for english
+        -button for translation
+        -box for translated word 
+
+Backend
+    JSON file - array of objects
+        object - english, sindarin, id 
+
+    .get - info by id or english word

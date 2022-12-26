@@ -1,5 +1,232 @@
-[  {
-    "sindarin" : "acharn",
-    "type" : "name",
-    "english" : "vengeance"
-}]
+[  
+    {
+    "quenya" : "accar",
+    "english" : "avenge"
+    },
+    {
+    "quenya" : "acuna",
+    "english" : "curved"
+    },
+    {
+    "quenya" : "aha",
+    "english" : "rage"
+    },
+    {
+    "quenya" : "aian",
+    "english" : "holy place"
+    },
+    {
+    "quenya" : "aica",
+    "english" : "terrible"
+    },
+    {
+    "quenya" : "aicassë",
+    "english" : "mountain peak"
+    },
+
+    {
+    "quenya" : "ailin",
+    "english" : "pool, lake"
+    },
+    {
+    "quenya" : "aina",
+    "english" : "holy"
+    },
+    {
+    "quenya" : "aino",
+    "english" : "god"
+    },
+    {
+    "quenya" : "airë",
+    "english" : "sea"
+    },
+    {
+    "quenya" : "airon",
+    "english" : "ocean"
+    },
+    {
+    "quenya" : "aiwë",
+    "english" : "bird"
+    },
+    {
+    "quenya" : "alaië",
+    "english" : "no"
+    },
+    {
+    "quenya" : "alassë",
+    "english" : "joy"
+    },
+    {
+    "quenya" : "alat",
+    "english" : "great"
+    },
+    {
+    "quenya" : "alcar",
+    "english" : "glory"
+    },
+    {
+    "quenya" : "alda",
+    "english" : "tree"
+    },
+    {
+    "quenya" : "alat",
+    "english" : "great"
+    },
+    {
+    "quenya" : "alima",
+    "english" : "good"
+    },
+    {
+    "quenya" : "alla",
+    "english" : "welcome"
+    },
+    {
+    "quenya" : "alma",
+    "english" : "flower"
+    },
+    {
+    "quenya" : "almë",
+    "english" : "blessing"
+    },
+    {
+    "quenya" : "amal",
+    "english" : "mother"
+    },
+    {
+    "quenya" : "alya",
+    "english" : "rich"
+    },
+    {
+    "quenya" : "amba",
+    "english" : "up"
+    },
+    {
+    "quenya" : "ambar",
+    "english" : "world"
+    },
+    {
+    "quenya" : "almë",
+    "english" : "blessing"
+    },
+    {
+    "quenya" : "anarórë",
+    "english" : "sunrise"
+    },
+    {"quenya" : "ancalë","english" : "sun"},
+
+    {"quenya" : "anda","english" : "long"},
+    {"quenya" : "anel","english" : "daughter"},
+    {"quenya" : "ange","english" : "iron"},
+    {"quenya" : "ango","english" : "snake"},
+    {"quenya" : "anna","english" : "gift"},
+    {"quenya" : "anon","english" : "son"},
+    {"quenya" : "anquale","english" : "death"},
+    {"quenya" : "anta","english" : "give"},
+    {"quenya" : "anta","english" : "face"},
+    {"quenya" : "anwa","english" : "true"},
+    {"quenya" : "ar","english" : "day"},
+    {"quenya" : "aran","english" : "king"},
+
+    {"quenya" : "singë","english" : "salt"},
+    {"quenya" : "sinta","english" : "short"},
+    {"quenya" : "sintamo","english" : "smith"},
+    {"quenya" : "sinya","english" : "new"},
+    {"quenya" : "sira","english" : "today"},
+
+    {"quenya" : "sinyë","english" : "evening"},
+    {"quenya" : "sirë","english" : "stream"},
+    {"quenya" : "sirya","english" : "river"},
+    {"quenya" : "sis","english" : "here"},
+
+    {"quenya" : "sívë","english" : "peace"},
+    {"quenya" : "soica","english" : "thirsty"},
+    {"quenya" : "solmë","english" : "wave"},
+    {"quenya" : "songa","english" : "mouth"},
+
+    {"quenya" : "soron","english" : "eagle"},
+    {"quenya" : "sulca","english" : "root"},
+    {"quenya" : "súrë","english" : "wind"},
+
+    {"quenya" : "taina","english" : "sign"},
+    {"quenya" : "tal","english" : "foot"},
+    {"quenya" : "talan","english" : "ground"},
+    {"quenya" : "tamna","english" : "artifact"},
+    {"quenya" : "tampo","english" : "well"},
+    {"quenya" : "tanwë","english" : "craft"},
+    {"quenya" : "tára","english" : "wise"},
+    {"quenya" : "tári","english" : "queen"},
+    {"quenya" : "tarminas","english" : "castle"},
+
+    {"quenya" : "tarwa","english" : "garden"},
+    {"quenya" : "tarwë","english" : "cross"},
+    {"quenya" : "taryo","english" : "daddy"},
+    {"quenya" : "tás","english" : "there"},
+    {"quenya" : "taura","english" : "mighty"},
+    {"quenya" : "tavar","english" : "wood"},
+
+    {"quenya" : "tavaril","english" : "dryad"},
+    {"quenya" : "tavas","english" : "woodland"},
+    {"quenya" : "te","english" : "they"},
+    {"quenya" : "tëa","english" : "road"},
+
+
+    {"quenya" : "mandë","english" : "end"},
+    {"quenya" : "mando","english" : "prison"},
+    {"quenya" : "manen","english" : "how"},
+    {"quenya" : "manomë","english" : "where"},
+    {"quenya" : "manwa","english" : "ready"},
+    {"quenya" : "maquet","english" : "ask"},
+    {"quenya" : "már","english" : "home"},
+
+    {"quenya" : "mára","english" : "useful"},
+    {"quenya" : "mardë","english" : "hall"},
+    {"quenya" : "márienna","english" : "farewell"},
+    {"quenya" : "maril","english" : "glass"},
+    {"quenya" : "marilla","english" : "pearl"},
+    {"quenya" : "marta","english" : "fate"},
+    {"quenya" : "marto","english" : "tower"},
+    {"quenya" : "masta","english" : "bread"},
+
+    {"quenya" : "masto","english" : "village"},
+    {"quenya" : "mat","english" : "meal"},
+    {"quenya" : "matil","english" : "food"},
+    {"quenya" : "maur","english" : "dream"},
+    {"quenya" : "mavar","english" : "shepherd"},
+    {"quenya" : "maxa","english" : "soft"},
+    {"quenya" : "melda","english" : "beloved"},
+    {"quenya" : "meldo","english" : "friend"},
+    {"quenya" : "melehtë","english" : "power"},
+
+    {"quenya" : "melima","english" : "fair"},
+    {"quenya" : "melin","english" : "dear"},
+    {"quenya" : "melindo","english" : "lover"},
+    {"quenya" : "melu","english" : "honey"},
+    {"quenya" : "menta","english" : "send"},
+    {"quenya" : "mentië","english" : "journey"},
+    {"quenya" : "mëoi","english" : "cat"},
+    {"quenya" : "meryalë","english" : "holiday"},
+    {"quenya" : "métima","english" : "last"},
+
+    {"quenya" : "milmë","english" : "desire"},
+    {"quenya" : "milya","english" : "gentle"},
+    {"quenya" : "mina","english" : "into"},
+    {"quenya" : "minassë","english" : "city"},
+    {"quenya" : "mindë","english" : "turret"},
+
+    {"quenya" : "mitra","english" : "small"},
+    {"quenya" : "mitta","english" : "piece"},
+
+    {"quenya" : "mixa","english" : "wet"},
+    {"quenya" : "moiner","english" : "familiar"},
+    {"quenya" : "mor","english" : "darkness"},
+    {"quenya" : "munta","english" : "nothing"},
+
+
+    {"quenya" : "mitta","english" : "piece"},
+    {"quenya" : "mitta","english" : "piece"},
+    {"quenya" : "mitta","english" : "piece"}
+
+
+]
+
+

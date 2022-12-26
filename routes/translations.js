@@ -3,26 +3,27 @@ const router = express.Router();
 const app = express();
 const fs = require('fs');
 const sindarinTrans = fs.readFileSync('./data/sindarin.json');
-const quenyanTrans = fs.readFileSync('./data/quenya.json');
+const quenyaTrans = fs.readFileSync('./data/quenya.json');
 
+
+router.route('/')
+    .get((_req,res) => {
+        res.send('hello world')
+    })
 
 router.route('/sindarin')
-    .get((req,res) => {
-        const words = JSON.parse(sindarinTrans);
-        const foundWord = words.filter(word => {
-            req.body === word.english  
-        })
-        console.log(req)
+    .get((_req,res) => {
+        const sindarinWords = JSON.parse(sindarinTrans);
+        res.send(sindarinWords)
     })
 
-router.route('quenya')
-    .get((req,res) => {
-        const foundWord = quenyaTrans.find(word => {
-            req.params === word.english
-        })
+router.route('/quenya')
+    .get((_req,res) => {
+        const quenyaWords = JSON.parse(quenyaTrans);
+        res.send(quenyaWords)
     })
 
-router.route('orcish')
+router.route('/orcish')
     .get((req,res) => {
             
     })

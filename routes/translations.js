@@ -1,6 +1,5 @@
 const express = require('express');
 const router = express.Router();
-const app = express();
 const fs = require('fs');
 const sindarinTrans = fs.readFileSync('./data/sindarin.json');
 const quenyaTrans = fs.readFileSync('./data/quenya.json');

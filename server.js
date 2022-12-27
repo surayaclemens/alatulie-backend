@@ -10,6 +10,6 @@ app.use(cors());
 const translations = require('./routes/translations');
 app.use('/translations', translations);
 
-app.listen(8080, () => {
+app.listen(process.env.PORT || 8080, () => {
     console.log('Server is listening');
 })

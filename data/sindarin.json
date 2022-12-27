@@ -4,7 +4,7 @@
     {"sindarin" : "ada", "type" : "name", "english" : "daddy"},
     {"sindarin" : "amlug", "type" : "name", "english" : "snake"},
     {"sindarin" : "annabon", "type" : "name", "english" : "elephant"},
-    {"sindarin" : "Anor", "type" : "name", "english" : "Sun"},
+    {"sindarin" : "Anor", "type" : "name", "english" : "sun"},
     {"sindarin" : "atheg", "type" : "name", "english" : "thumb"},
     {"sindarin" : "aranart", "type" : "name", "english" : "kingdom"},
     
@@ -52,8 +52,8 @@
     {"sindarin" : "ed", "type" : "adv", "english" : "forth"},
     {"sindarin" : "edaid", "type" : "adj", "english" : "double"},
     {"sindarin" : "eden", "type" : "adj", "english" : "anew"},
-    {"sindarin" : "edhel", "type" : "name", "english" : "Elf"},
-    {"sindarin" : "edhelharn", "type" : "name", "english" : "Elf-stone"},
+    {"sindarin" : "edhel", "type" : "name", "english" : "elf"},
+    {"sindarin" : "edhelharn", "type" : "name", "english" : "elf-stone"},
     {"sindarin" : "edhellen", "type" : "adj", "english" : "elvish"},
 
     {"sindarin" : "fern", "type" : "adj", "english" : "dead"},
